@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/BluePrints/BP_Player.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/BluePrints/GameModes/GM_Game1202_LabBook02.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IA_Move.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IMC_PlayerInput.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IA_Look.uasset"
+			]
+		}
+	]
+}
