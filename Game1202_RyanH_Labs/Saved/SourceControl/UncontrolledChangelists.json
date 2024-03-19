@@ -11,7 +11,14 @@
 				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IA_Move.uasset",
 				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IMC_PlayerInput.uasset",
-				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IA_Look.uasset"
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IA_Look.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Characters/Player/ABP_Player.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Characters/Player/Walk_Log_BlendSpace.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Characters/Player/Crouch/Crouch_Idle.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Characters/Player/Crouch/Crouch_Walk.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Characters/Player/Crouch/CrouchAnimation_ABP.uasset",
+				"E:/Repos/Unreal Projects/Game1202Labs/Game1202_RyanH_Labs/Content/Input/IA_Crouch.uasset"
 			]
 		}
 	]
